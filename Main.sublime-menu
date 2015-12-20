@@ -1,0 +1,46 @@
+[
+	{
+		"caption": "Edit",
+		"mnemonic": "E",
+		"id": "edit",
+		"children":
+		[
+			{
+				"caption": "WikiTools",
+				"id": "WikiTools",
+				"children": [
+					{
+						"caption": "Вики-ссыльщик",
+						"command": "wikilinker"
+					},
+					{
+						"caption": "-"
+					},
+					{
+						"caption": "Предпросмотр",
+						"command": "wiki_preview", 
+						"args": { "all": true }
+					},
+					{
+						"caption": "Предпросмотр (выделенное)",
+						"command": "wiki_preview", 
+						"args": { "all": false }
+					},
+					{
+						"caption": "-"
+					},
+					{
+						"caption": "Перевести английские ссылки",
+						"command": "interwiki",
+						"args": { "lang": "en" }
+					},
+					{
+						"caption": "Перевести японские ссылки",
+						"command": "interwiki",
+						"args": { "lang": "ja" }
+					}
+				]
+			}
+		]
+	}
+]

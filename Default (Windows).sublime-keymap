@@ -1,0 +1,5 @@
+[
+	{ "keys": ["alt+w"], "command": "wikilinker" },
+	{ "keys": ["alt+shift+f5"], "command": "wiki_preview", "args": { "all": false } },
+	{ "keys": ["alt+f5"], "command": "wiki_preview", "args": { "all": true } },
+]

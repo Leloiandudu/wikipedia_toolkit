@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+{{Статья|автор=$1|заглавие=$2|ссылка=$3|язык=$4|издание=$5|год=$6|том=$7|номер=$8|выпуск=$9|страницы=$10|doi=$11|issn=$12|archiveurl=$13|archivedate=$14|ref=$15}}
+]]></content>
+	<tabTrigger>cart</tabTrigger>
+	<scope>wiki</scope>
+</snippet>

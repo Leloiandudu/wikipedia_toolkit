@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+{{cite web|url=$1|title=$2|author=$3|date=$4|publisher=$5|accessdate=$6|lang=$7|quote=$8|archiveurl=$9|archivedate=$10|ref=$11}}
+]]></content>
+	<tabTrigger>cweb</tabTrigger>
+	<scope>wiki</scope>
+</snippet>

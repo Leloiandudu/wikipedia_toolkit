@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+{{книга|автор=$1|заглавие=$2|часть=$3|издательство=$4|год=$5|страницы=$6|isbn=$7|ссылка=$8|ref=$9}}
+]]></content>
+	<tabTrigger>cbook</tabTrigger>
+	<scope>wiki</scope>
+</snippet>

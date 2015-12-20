@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+{{Кратное изображение
+ |зона = center
+ |направление = horizontal
+ |изобр1 = $1 |ширина1 = $2 |подпись1 = $3
+ |изобр2 = $4 |ширина2 = $5 |подпись2 = $6}}
+]]></content>
+	<tabTrigger>кратное</tabTrigger>
+	<scope>wiki</scope>
+</snippet>
